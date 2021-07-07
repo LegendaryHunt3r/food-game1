@@ -1,0 +1,9 @@
+f(burger[i].isTouching(anyone in the lettuce array)){ 
+    if(it is a good combo){ 
+        score++ 
+        lettuce.velocityY=0;
+        lettuce.x=burger[i].x; 
+        burger.push(lettucearray[j]) 
+        i++
+        } 
+    }
